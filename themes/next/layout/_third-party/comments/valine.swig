@@ -20,9 +20,8 @@
         appKey: '{{ theme.valine.appkey }}',
         placeholder: '{{ theme.valine.placeholder }}',
         avatar:'{{ theme.valine.avatar }}',
-        meta:guest,
+        guest_info:guest,
         pageSize:'{{ theme.valine.pageSize }}' || 10,
-        visitor: {{ theme.valine.visitor }}
     });
   </script>
 {% endif %}
