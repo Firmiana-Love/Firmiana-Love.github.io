@@ -78,7 +78,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: #git@118.25.49.30:/home/git/repos/myblog.git
-        https://github.com/Firmiana-Love/Firmiana-Love.github.io.git
-  branch: master
+ - type: git
+   repo: git@118.25.49.30:/home/git/repos/myblog.git
+ - type: git
+   repo: https://github.com/Firmiana-Love/Firmiana-Love.github.io.git
+   branch: master
