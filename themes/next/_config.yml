@@ -157,7 +157,7 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/xiangdongtang || github
+  GitHub: https://github.com/Firmiana-Love || github
   CSDN: https://blog.csdn.net/baidu_23587703 || 
   E-Mail: mailto:523833891@qq.com || envelope
   #Google: https://plus.google.com/yourname || google
@@ -182,7 +182,7 @@ social_icons:
 # Usage: `permalink || title`
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the title and aria-label name.
-github_banner: https://github.com/xiangdongtang || Follow me on GitHub
+github_banner: https://github.com/Firmiana-Love || Follow me on GitHub
 
 # Blog rolls
 links_icon: link
@@ -361,7 +361,7 @@ custom_logo:
 # Code Highlight theme
 # Available values: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night eighties
 
 # Enable "cheers" for archive page.
 cheers_enabled: true
@@ -505,9 +505,9 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: enable
+  appid: E1BrWMWrpgtHrQT3ylPH8C3K-gzGzoHsz
+  appkey: crCRRssW1eYJ818CLEXgOz6B
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Just go go # comment box placeholder
