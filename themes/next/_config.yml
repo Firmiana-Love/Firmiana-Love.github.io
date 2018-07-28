@@ -125,7 +125,7 @@ menu:
   tags: /tags/ || tags
   about: /about/ || user
   #schedule: /schedule/ || calendar
-  sitemap: /sitemap.xml || sitemap
+  #sitemap: /uploads/sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
   
 # Enable/Disable menu icons / item badges.
@@ -719,7 +719,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: enable
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
