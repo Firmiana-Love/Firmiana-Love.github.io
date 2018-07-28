@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 浮生若梦，若梦非梦
-subtitle: 庄周梦蝶
+title: Firmiana-Love的个人Blog
+subtitle: 梧桐雨
 description: 那些压抑着自己天性的人，犹如折翼的天使
-keywords: 梧桐雨
+keywords: C,C++,Linux,编程经验总结,读书感想
 author: 一夜梧桐落尽时
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://summersilence.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
